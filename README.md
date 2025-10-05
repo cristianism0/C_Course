@@ -1,7 +1,15 @@
 # Course - C language
 
-This repository is made for study C language. There is a [basic structure](#structure) where you can see how it's divided by.
+This repository is made for study C language.
+
+ There is a [basic structure](#structure) where you can see how it's divided by.
 The exercises and theory is based on the [Materials](#materials) section.
+
+The course have the files writen in _bullet journal_ way:
+
+_ex_: `0.about.md, 1.grammar.md, ...`
+
+This indicates the **order of reading**.
 
 ## Materials
 
@@ -10,9 +18,8 @@ The exercises and theory is based on the [Materials](#materials) section.
 ## Structure
 `under construction`
 ```markdown
-| fundamentals/
-| syntax/
-| data_types/
+| 0.fundamentals/
+| 1.structure_program/
 ```
 
 ## Notes
