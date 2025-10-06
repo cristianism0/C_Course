@@ -9,6 +9,8 @@ The exercises and theory is based on the [Materials](#materials) section.
 This indicates the **order of reading**.
 
 > **ATTENTION**: The C version we use here is C23.
+If you keep have getting errors squiggles on VSCode C/C++ Extension, you can type:
+`Ctrl + Shift + P -> C/C++: Edit Configuration (JSON)` and set the line: `"cStandart: c17"` to `c23`.
 
 ## Materials
 
