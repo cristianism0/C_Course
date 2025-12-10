@@ -1,2 +1,5 @@
 *.exe
 .vscode
+
+# binaries from C files.
+**/bin
