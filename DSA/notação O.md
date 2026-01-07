@@ -10,6 +10,20 @@ Então, se torna útil escrever operadores matemáticos para isso:
 ```math
 \bf{O,\  \Omega,\  \Theta}
 ```
+
+Onde **O** é usada principalmente para definir limites *superiores assintóticos*.
+
+O **Ômega** é para limites *inferiores assintóticos.*
+
+*ou seja, O e ômega possuem a mesma formula para cacular o max e o mínimo tempo de complexidade de um algoritmo.*
+
+O **Theta** é para limites superiores justos.
+
+Limites superiores justos são aqueles dados *f* e *g* onde, se:
+```math
+f = O(g)\text{ e } g = O(f)
+```
+
 Serão usados para isso.
 
 Sejam *f,h* funções reais positivas em relação a *n*. Diz-se que *f* é *O(h)*, ou seja: 

@@ -1,8 +1,7 @@
 ### Complexidade de tempo
 
-No algoritmo [operações de matrizes](operações_matrizes.c), vemos que o tempo pode ser medido pelo número de passos de um algoritmo, onde os passos são as operações elementares do algoritmo.
+No algoritmo [operações de matrizes](operações_matrizes.c), vemos que o tempo pode ser medido pelo **número de passos de um algoritmo**, onde os passos são as operações elementares do algoritmo.
 Essas operações no código foram dadas por atribuições.
-
 
 Podemos definir uma expressão matemática para a **complexidade de tempo** por:
 
