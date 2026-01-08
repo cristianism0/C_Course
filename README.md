@@ -29,8 +29,12 @@ Features on this book:
 ## Structure
 `under construction`
 ```markdown
-| 0.fundamentals/
-| 1.structure_program/
+├── 0.fundamentals
+├── 1.structure_program
+├── 2.control
+├── 3.expressions
+└── DSA
+   └── sorts
 ```
 
 ## Notes
